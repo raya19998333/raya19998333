@@ -22,9 +22,9 @@ Always learning, creating, and innovating! 🚀
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-**Frameworks:** Django, Node.js, Spring Boot  
+**Frameworks:**  Node.js
 **Tools:** Power BI, Figma, Excel, Word, PowerPoint  
-**Databases:** MySQL, PostgreSQL, MongoDB  
+**Databases:** MySQL, MongoDB  
 **Focus Areas:** Data Visualization, Business Dashboards, UI/UX Design  
 
 ---
