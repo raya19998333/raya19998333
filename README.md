@@ -27,18 +27,6 @@ Always learning, creating, and innovating! 🚀
 **Databases:** MySQL, MongoDB  
 **Focus Areas:** Data Visualization, Business Dashboards, UI/UX Design  
 
----
-
-## 📊 Featured Project
-### 🧭 Zara Business Dashboard (Power BI)
-A **business analytics dashboard** that visualizes sales performance and product trends for Zara.  
-🔹 Cleaned and transformed data for accuracy and consistency  
-🔹 Designed visuals for brand, category, and promotion performance  
-🔹 Helped identify opportunities for better marketing and seasonal planning  
-
-🧩 *Goal:* Support data-driven business decisions through clear and interactive dashboards.  
-
----
 
 ## 💼 My Brand – RAYA
 **RAYA** is a plant-based cosmetics brand focused on natural beauty, quality, and sustainability.  
