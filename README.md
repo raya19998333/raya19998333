@@ -1,10 +1,24 @@
-<h1 align="center">✨ Hi, I'm <span style="color:#7c4dff;">Raya Al Amri</span> 👋</h1>
+<div align="center">
 
-<p align="center">
-🎓 <b>Bachelor’s in Information Systems</b> – University of Technology and Applied Sciences (GPA: <b>3.94</b>)  
-💻 <b>Full Stack Developer | Data Analyst | UI/UX Designer</b>  
-🌿 <b>Founder of <span style="color:#4caf50;">RAYA</span></b> – Plant-Based Cosmetics Brand  
+<!-- Profile Logo -->
+<img src="https://i.postimg.cc/jn2HHGN4/IMG-8077-removebg-preview.png" width="140" />
+
+<h2 style="color:white; margin-top:10px;">✨ Raya Al Amri ✨</h2>
+
+<p style="color:#dcdcdc; font-size:14px; margin-top:-10px;">
+Full Stack Developer • Data Analyst • UI/UX Designer <br>
+Founder of <strong>RAYA Beauty</strong> | 🎓 <b>Bachelor’s in Information Systems</b>(GPA 3.94)
 </p>
+
+<!-- Badges -->
+<p>
+<img src="https://img.shields.io/github/followers/raya19998333?style=social" />
+<img src="https://img.shields.io/github/stars/raya19998333/RayaBeautyStore?style=social" />
+<img src="https://img.shields.io/badge/LinkedIn-Raya%20Al%20Amri-blue?logo=linkedin" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=google-chrome" />
+</p>
+
+
 
 ---
 
