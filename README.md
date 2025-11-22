@@ -17,7 +17,7 @@ Founder of <strong>RAYA Beauty</strong> | 🎓 <b>Bachelor’s in Information Sy
 <img src="https://img.shields.io/badge/LinkedIn-Raya%20Al%20Amri-blue?logo=linkedin" />
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-green?logo=google-chrome" />
 </p>
-
+</div>
 
 
 ---
